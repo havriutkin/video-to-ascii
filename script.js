@@ -1,4 +1,4 @@
-const grayscale = "$@jft,\"^`'.";
+const grayscale = " .:-=+*#%tfj@$";
 
 // Canvas set up
 const canvas = document.getElementById("canvas");
